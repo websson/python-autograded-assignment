@@ -1,0 +1,5 @@
+test_command: pytest tests -v --tb=short
+timeout_seconds: 60
+max_score: 100
+public_tests: tests/public
+hidden_tests: tests/hidden

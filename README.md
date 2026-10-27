@@ -64,4 +64,6 @@ its own or inside Moodle, Canvas, Blackboard or Brightspace over LTI 1.3, and wo
 
 Step by step, with pictures: [autograde Python assignments with pytest and a rubric in Canvas or Moodle](https://portal.uppcoder.com/guides/autograde-python-canvas-moodle?utm_source=github&utm_medium=repo&utm_campaign=example-assignment).
 
+To watch a whole course run without an account, from the teacher's and the student's side: [the education demo](https://demo.uppcoder.com/demo/education?utm_source=github&utm_medium=repo&utm_campaign=example-assignment), or [the same inside Moodle](https://demo.uppcoder.com/demo/education-moodle?utm_source=github&utm_medium=repo&utm_campaign=example-assignment).
+
 MIT licensed: use it, change it, hand it out.
